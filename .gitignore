@@ -1,1 +1,22 @@
-/target
+# Ignore arquivos compilados
+*.class
+
+# Ignore pacotes
+*.jar
+
+# Ignore logs
+*.log
+
+# Ignore arquivos temporários
+*.tmp
+
+# Ignore arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore pastas do VSCode
+.vscode/
+
+# Ignore outputs
+out/
+bin/
